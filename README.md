@@ -16,4 +16,4 @@ StudyBuddy is an AI-powered educational website built with React.
 - AI Integration
 
 ## Author
-Vedant Patil
+your Buddy
